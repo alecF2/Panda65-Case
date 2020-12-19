@@ -1,6 +1,6 @@
-# Panda65 Case
+# Panda65 Keyboard Case
 
-A stacked acrylic case for generic_panda's PCB.
+A stacked acrylic case made for generic_panda's panda65 PCB.
 
 ### Specifications
 * 7 layers; 6 are acrylic, the other is POM and is the plate
